@@ -113,7 +113,20 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME> $nome=[COL
 <genre>GOSPEL</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[B][COLOR white]O Céu é de Verdade (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4Gn4YAUgU3A $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ceu e de Verdade[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b75a19a32c4b0079df43cbde489584116a7934a $nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ceu e de Verdade - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366ac65b38c36e60d54cea0bfb041239ce9604c8 $nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ceu e de Verdade - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ESPC/GOSPEL/FLMS/LS-O.Ceu.e.de.Verdade.2014.HD.DUB.mp4 $nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ceu e de Verdade - DUB - LEGFIX[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3V1S3j05kV5YqDEL2qyVFIy1x3m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/prMGhj8aBC4TYNAMDDDAQ2OeFZR.jpg</fanart>
+<info>A história do filho de 4 anos de um pastor, durante uma cirurgia de emergência, foge da consciência e entra no céu. </info>
+<genre>GOSPEL</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]Os Dez Mandamentos (1956)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=KBzbyIPWVT4 $nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Os Dez Mandamentos[/B][/COLOR]</link>				
