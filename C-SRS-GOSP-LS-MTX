@@ -12,6 +12,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]A Bíblia (2021)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1L-GOSP-LS-MTX/main/C2-SRS-A.Biblia-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/HiKSLnpZTtoVNI2MCaMl0SRJpU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>
+<info>Assista a série A Bíblia. 
+[COLOR orange][B]GOSPEL[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 89 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Jesus de Nazaré de Franco Zeffirelli (1977)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1L-GOSP-LS-MTX/main/C1-SRS-Jesus.Zefirelli-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/buI2PFY2enwvbtGYUL05ZGcnAyR.jpg</thumbnail>
