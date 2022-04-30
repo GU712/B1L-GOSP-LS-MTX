@@ -1,0 +1,81 @@
+<item>			
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>			
+<link>NOLINK</link>			
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</title>			
+<link>plugin://plugin.video.youtube/play/?video_id=YI96n1c7DPs</link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>			
+<info>Assista ao trailer</info>			
+<genre>GOSPEL</genre> 			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+TORRENTS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Biblia - Mini-Serie (2021) - FHD DUAL[/B][/COLOR]</title>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>			
+<thumbnail>https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>			
+<info>Minisérie em 10 eps , da criação ate a ressureição.</info>			
+<genre>GOSPEL</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+item>			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUAL[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>			
+<info>Minisérie em 10 eps , da criação ate a ressureição.</info>			
+<genre>GOSPEL</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+SERVER LS			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Biblia - Mini-Serie (2021) - HD DUB+LEG[/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>			
+			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67015.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67016.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67017.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67018.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67019.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67020.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67021.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67022.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67023.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/756498630968KHg/67024.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Biblia  - Miniserie [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>			
+<info>Minisérie em 10 eps , da criação ate a ressureição.</info>			
+<genre>GOSPEL</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
