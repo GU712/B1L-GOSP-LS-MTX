@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CINE GOSPEL -> FILMES [/B][/COLOR]</name>
+<name>[COLOR white][B]CINE GOSPEL -> FILMES -> SERVER LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1L-GOSP-LS-MTX/main/A1-FLM-GOSP-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/cw99tgq/CINEGOSPEL-FAN.png</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CINE GOSPEL -> SÉRIES [/B][/COLOR]</name>
+<name>[COLOR white][B]CINE GOSPEL -> SÉRIES -> SERVER LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1L-GOSP-LS-MTX/main/C-SRS-GOSP-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/6wZwBb4/CINEGOSPEL-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/cw99tgq/CINEGOSPEL-FAN.png</fanart>
@@ -36,8 +36,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CINE GOSPEL -> SERVER 2 [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/A1L-GOSP-LS-KRP/main/A2-GOSP-SERVER-2-KRP</externallink>
+<name>[COLOR white][B]CINE GOSPEL -> FILMES -> SERVER 2  [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/A1L-GOSP-LS-KRP/main/A2-FLMS-GOSP-SERVER-2-KRP</externallink>
+<thumbnail>https://i.ibb.co/6wZwBb4/CINEGOSPEL-SRS-ICON.png</thumbnail>
+<fanart>https://i.ibb.co/cw99tgq/CINEGOSPEL-FAN.png</fanart>
+<info>FÉ E ESPIRITULIDADE EM FILMES E SÉRIES </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]CINE GOSPEL -> SÉRIES -> SERVER 2 [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/A1L-GOSP-LS-KRP/main/A3-SRS-GOSP-SERVER-2-KRP</externallink>
 <thumbnail>https://i.ibb.co/6wZwBb4/CINEGOSPEL-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/cw99tgq/CINEGOSPEL-FAN.png</fanart>
 <info>FÉ E ESPIRITULIDADE EM FILMES E SÉRIES </info>
